@@ -6,12 +6,12 @@
 ---
 Aqui, estão meus projetos de sistemas web (web apps).
 
-## Projetos
+## 🧪 Projetos
 Lista de projetos:
 
 * **Machine Learning para Diagnóstico de Câncer de Pulmão:** https://github.com/andregustavo04/Web-Apps/tree/main/Previsao_Cancer_Pulmao
 
 ---
-## Sobre Mim
+## 🙋🏼‍♂️ Sobre Mim
 Cientista de dados com habilidades  em Python, SQL, e machine learning, além da criação de web apps e dashboards com Python. Tenho um imenso interesse em Matemática, 
 Física, Ciência e Tecnologia de maneira geral. 
