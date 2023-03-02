@@ -2,6 +2,7 @@
 <p>
   <img src="https://github.com/andregustavo04/Web-Apps/blob/main/Previsao_Cancer_Pulmao/Img/web_app_previsao_cancer_pulmao.png?raw=true">
 </p
+  <br><br>
   
   ## 💻 Projeto
   Para o ver o modelo de Machine Learning rodando em tempo real, acesse o link a seguir: <br><br>
