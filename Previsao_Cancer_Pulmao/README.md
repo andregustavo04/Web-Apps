@@ -4,7 +4,7 @@
 </p
   
   ## 💻 Projeto
-  Para o ver o modelo de Machine Learning rodando em tempo real, acesse o link a seguir:
+  Para o ver o modelo de Machine Learning rodando em tempo real, acesse o link a seguir: <br><br>
   <a href = "[https://my-budget-dash.herokuapp.com/](https://andregustavo04-lung-cancer-ml-app-zc8kg1.streamlit.app/)"><img src="https://img.shields.io/badge/MACHINE LEARNING-Câncer de Pulmão-darkblue" target="_blank"></a>
 
   
